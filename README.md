@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **A social media platform where developers can meet other.**
+- 🔭 I’m currently working on **A social media platform where developers can meet other like minded people.**
 
 - 🌱 I’m currently learning **React js ,Next js , Three js**
 
