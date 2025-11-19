@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ypranay3232&show_icons=true&locale=en" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats-h8877eov7-pranays-projects-ac009785.vercel.app/" /></p>
+<p><img align="center" src="https://githubreadmestreakstats-nfa1tb9uy-pranays-projects-ac009785.vercel.app/" /></p>
