@@ -12,8 +12,8 @@
 - 👨‍💻 All of my projects are available at [https://building-my-own-portfolio.netlify.app/](https://building-my-own-portfolio.netlify.app/)
 
 ### 🔧 My VS Code Extensions
-[![AutoCommitAI](https://img.shields.io/badge/Auto-Commit-AI-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.auto-commit-ai-for-github)
-[![AutoCorrect](https://img.shields.io/badge/Auto-Correct-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.vscode-autocorrect)
+[![AutoCommitAI](https://img.shields.io/badge/AutoCommitAI-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.auto-commit-ai-for-github)
+[![AutoCorrect](https://img.shields.io/badge/AutoCorrect-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.vscode-autocorrect)
 
 
 
