@@ -13,7 +13,7 @@
 
 ### 🔧 My VS Code Extensions
 [![AutoCommitAI](https://img.shields.io/badge/AutoCommitAI-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.auto-commit-ai-for-github)
-[![AutoCorrect](https://img.shields.io/badge/AutoCorrect-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.vscode-autocorrect)
+[![AutoCorrectAI](https://img.shields.io/badge/AutoCorrect-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.vscode-autocorrect)
 
 
 
