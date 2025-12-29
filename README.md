@@ -12,9 +12,10 @@
 - 👨‍💻 All of my projects are available at [https://building-my-own-portfolio.netlify.app/](https://building-my-own-portfolio.netlify.app/)
 
 ### 🔧 My VS Code Extensions
-[![AutoCommitAI](https://img.shields.io/badge/AutoCommitAI-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.auto-commit-ai-for-github)
-[![AutoCorrect](https://img.shields.io/badge/AutoCorrect-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.vscode-autocorrect)
+[![AutoCommitAI](https://img.shields.io/badge/Auto_Commit_AI-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.auto-commit-ai-for-github)
+[![AutoCorrect](https://img.shields.io/badge/Typing_Assistant-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.vscode-autocorrect)
 [![Smart Live Server Sync](https://img.shields.io/badge/Smart_Live_Server_Sync-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.smart-live-server-sync)
+[![Time: A Streak & productivity Habit Builder](https://img.shields.io/badge/Time:_A_Streak_And_Productivity_Habit_builder-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.time-a-productivity-streak-builder)
 
 
 
