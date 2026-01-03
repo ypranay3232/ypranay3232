@@ -16,6 +16,7 @@
 [![AutoCorrect](https://img.shields.io/badge/Typing_Assistant-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.vscode-autocorrect)
 [![Smart Live Server Sync](https://img.shields.io/badge/Smart_Live_Server_Sync-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.smart-live-server-sync)
 [![Time: A Streak & productivity Habit Builder](https://img.shields.io/badge/Time:_A_Streak_And_Productivity_Habit_builder-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.time-a-productivity-streak-builder)
+[![TypeRefine](https://img.shields.io/badge/TypeRefine-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=buddytools.typerefine)
 
 
 
