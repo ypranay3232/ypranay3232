@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m continuously improving myself to **become not just another developer, but an engineer who builds with purpose.**
+- **🔭 Not your average developer, I’m an engineer focused on building whatever the hell I want.**
 
 - 🌱 I’m currently learning **React js ,Next js , Three js**
 
