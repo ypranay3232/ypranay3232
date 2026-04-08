@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **ypranaay56@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mOWexoghmUKeOEXG-svJvxKNUOdJMVvw/view?usp=drive_link]
+- 📄 Know about my experiences [https://drive.google.com/file/d/12jO9MdGsDtuBliAflXBpYPJ6BExv6YQv/view?usp=drive_link]
 
 - ⚡ Fun fact **I do explore all kinds of stuff**
 
